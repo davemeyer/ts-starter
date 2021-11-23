@@ -1,3 +1,5 @@
 export const entrypoint = () => {
-    return 'sup?';
-}
+  return 'sup?';
+};
+
+entrypoint();
